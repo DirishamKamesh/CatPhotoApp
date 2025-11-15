@@ -50,12 +50,7 @@ This foundation sets me up for future projects involving CSS, JavaScript, and fr
 
 You can view the project live by opening the index.html file in any browser.
 
-📂 Project Structure
-/project-folder
-│── index.html
-│── images/
-│     └── cat-photo.jpg
-└── README.md
+
 
 🔧 How to Run
 
